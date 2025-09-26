@@ -1,0 +1,101 @@
+FirstName,LastName,Email,Student_ID__c,AccountName,GPA__c,Enrollment_Year__c,Placement_Status__c
+Rahul,Singh,rahul1@example.com,STU001,National Institute of Science,5.35,2019,Eligible
+Alok,Nair,alok2@example.com,STU002,Global College of Engineering,9.66,2023,Eligible
+Rahul,Gupta,rahul3@example.com,STU003,Modern Technical University,7.91,2023,Interviewing
+Nisha,Iyer,nisha4@example.com,STU004,Global College of Engineering,9.08,2023,Interviewing
+Anjali,Gupta,anjali5@example.com,STU005,XYZ Engineering College,9.51,2022,Placed
+Rahul,Agarwal,rahul6@example.com,STU006,National Institute of Science,6.95,2024,Interviewing
+Sandeep,Bose,sandeep7@example.com,STU007,ABC Institute of Technology,5.69,2018,Eligible
+Nisha,Rao,nisha8@example.com,STU008,National Institute of Science,8.41,2022,Eligible
+Pooja,Mukherjee,pooja9@example.com,STU009,ABC Institute of Technology,8.69,2023,Placed
+Nisha,Thakur,nisha10@example.com,STU010,ABC Institute of Technology,7.8,2020,Placed
+Vikas,Singh,vikas11@example.com,STU011,ABC Institute of Technology,6.23,2023,Placed
+Rohit,Iyer,rohit12@example.com,STU012,ABC Institute of Technology,5.36,2023,Not Placed
+Rohit,Tamrakar,rohit13@example.com,STU013,Global College of Engineering,5.68,2021,Placed
+Raj,Rao,raj14@example.com,STU014,XYZ Engineering College,6.4,2022,Placed
+Rohit,Reddy,rohit15@example.com,STU015,Global College of Engineering,6.77,2018,Eligible
+Anjali,Reddy,anjali16@example.com,STU016,Modern Technical University,5.05,2024,Not Placed
+Vikas,Mehta,vikas17@example.com,STU017,XYZ Engineering College,8.99,2024,Placed
+Anjali,Iyer,anjali18@example.com,STU018,ABC Institute of Technology,6.86,2020,Not Placed
+Rahul,Singh,rahul19@example.com,STU019,Modern Technical University,5.73,2021,Placed
+Deepak,Singh,deepak20@example.com,STU020,National Institute of Science,7.76,2022,Interviewing
+Sonal,Jain,sonal21@example.com,STU021,National Institute of Science,6.39,2018,Placed
+Sandeep,Deshmukh,sandeep22@example.com,STU022,ABC Institute of Technology,8.48,2018,Placed
+Pooja,Nair,pooja23@example.com,STU023,Modern Technical University,5.37,2021,Interviewing
+Meena,Kumar,meena24@example.com,STU024,National Institute of Science,5.38,2019,Not Placed
+Rohit,Verma,rohit25@example.com,STU025,XYZ Engineering College,5.18,2020,Eligible
+Rohit,Tamrakar,rohit26@example.com,STU026,ABC Institute of Technology,8.48,2018,Interviewing
+Alok,Thakur,alok27@example.com,STU027,XYZ Engineering College,8.17,2018,Interviewing
+Raj,Kumar,raj28@example.com,STU028,XYZ Engineering College,7.67,2019,Eligible
+Amit,Agarwal,amit29@example.com,STU029,XYZ Engineering College,6.23,2023,Interviewing
+Rekha,Reddy,rekha30@example.com,STU030,Global College of Engineering,5.47,2021,Eligible
+Nisha,Jain,nisha31@example.com,STU031,National Institute of Science,6.29,2018,Interviewing
+Anjali,Reddy,anjali32@example.com,STU032,Modern Technical University,7.49,2018,Placed
+Kiran,Reddy,kiran33@example.com,STU033,XYZ Engineering College,6.81,2019,Eligible
+Amit,Mehta,amit34@example.com,STU034,Global College of Engineering,5.79,2021,Interviewing
+Vivek,Tamrakar,vivek35@example.com,STU035,Global College of Engineering,8.9,2023,Interviewing
+Sneha,Mukherjee,sneha36@example.com,STU036,National Institute of Science,7.77,2020,Interviewing
+Sneha,Mukherjee,sneha37@example.com,STU037,XYZ Engineering College,9.24,2019,Placed
+Alok,Mehta,alok38@example.com,STU038,Global College of Engineering,9.4,2024,Not Placed
+Rahul,Agarwal,rahul39@example.com,STU039,XYZ Engineering College,5.67,2022,Placed
+Rahul,Patel,rahul40@example.com,STU040,ABC Institute of Technology,7.93,2020,Interviewing
+Anjali,Jain,anjali41@example.com,STU041,XYZ Engineering College,5.61,2019,Placed
+Priya,Chopra,priya42@example.com,STU042,National Institute of Science,5.72,2022,Not Placed
+Vikas,Nair,vikas43@example.com,STU043,XYZ Engineering College,6.21,2019,Placed
+Sonal,Verma,sonal44@example.com,STU044,ABC Institute of Technology,5.87,2020,Interviewing
+Anjali,Singh,anjali45@example.com,STU045,National Institute of Science,9.07,2022,Eligible
+Sandeep,Gupta,sandeep46@example.com,STU046,Global College of Engineering,8.4,2022,Placed
+Sneha,Thakur,sneha47@example.com,STU047,Modern Technical University,5.71,2020,Interviewing
+Rohit,Deshmukh,rohit48@example.com,STU048,Global College of Engineering,9.29,2018,Interviewing
+Vikas,Tamrakar,vikas49@example.com,STU049,XYZ Engineering College,5.74,2018,Not Placed
+Rohit,Gupta,rohit50@example.com,STU050,ABC Institute of Technology,5.68,2018,Eligible
+Rohit,Bose,rohit51@example.com,STU051,ABC Institute of Technology,9.04,2022,Eligible
+Amit,Bose,amit52@example.com,STU052,ABC Institute of Technology,7.24,2023,Interviewing
+Sandeep,Kumar,sandeep53@example.com,STU053,XYZ Engineering College,7.12,2024,Not Placed
+Meena,Jain,meena54@example.com,STU054,National Institute of Science,7.49,2018,Placed
+Sandeep,Verma,sandeep55@example.com,STU055,ABC Institute of Technology,5.72,2022,Interviewing
+Nisha,Thakur,nisha56@example.com,STU056,National Institute of Science,5.2,2018,Interviewing
+Amit,Singh,amit57@example.com,STU057,Modern Technical University,6.82,2020,Interviewing
+Amit,Mehta,amit58@example.com,STU058,Modern Technical University,8.38,2021,Interviewing
+Deepak,Tamrakar,deepak59@example.com,STU059,Modern Technical University,6.04,2022,Interviewing
+Priya,Gupta,priya60@example.com,STU060,National Institute of Science,7.37,2023,Placed
+Arjun,Gupta,arjun61@example.com,STU061,National Institute of Science,7.56,2024,Not Placed
+Meena,Agarwal,meena62@example.com,STU062,Modern Technical University,7.93,2020,Not Placed
+Vikas,Gupta,vikas63@example.com,STU063,Global College of Engineering,7.69,2018,Eligible
+Sneha,Deshmukh,sneha64@example.com,STU064,Modern Technical University,9.91,2018,Eligible
+Vivek,Tamrakar,vivek65@example.com,STU065,Modern Technical University,6.6,2020,Not Placed
+Arjun,Sharma,arjun66@example.com,STU066,Modern Technical University,7.21,2019,Placed
+Rohit,Kumar,rohit67@example.com,STU067,Global College of Engineering,8.89,2018,Not Placed
+Rahul,Tamrakar,rahul68@example.com,STU068,Global College of Engineering,6.52,2023,Placed
+Swayam,Reddy,swayam69@example.com,STU069,ABC Institute of Technology,9.14,2022,Interviewing
+Alok,Iyer,alok70@example.com,STU070,Global College of Engineering,5.57,2024,Placed
+Deepak,Agarwal,deepak71@example.com,STU071,Modern Technical University,8.36,2023,Eligible
+Arjun,Nair,arjun72@example.com,STU072,Modern Technical University,9.8,2020,Not Placed
+Pooja,Thakur,pooja73@example.com,STU073,Global College of Engineering,9.45,2021,Interviewing
+Sonal,Patel,sonal74@example.com,STU074,ABC Institute of Technology,7.88,2019,Placed
+Priya,Sharma,priya75@example.com,STU075,ABC Institute of Technology,5.31,2024,Not Placed
+Rohit,Bose,rohit76@example.com,STU076,National Institute of Science,8.48,2018,Interviewing
+Rohit,Nair,rohit77@example.com,STU077,Global College of Engineering,5.2,2024,Not Placed
+Vikas,Rao,vikas78@example.com,STU078,National Institute of Science,5.57,2023,Not Placed
+Sandeep,Jain,sandeep79@example.com,STU079,XYZ Engineering College,5.2,2023,Not Placed
+Rekha,Iyer,rekha80@example.com,STU080,ABC Institute of Technology,7.77,2019,Placed
+Raj,Thakur,raj81@example.com,STU081,Global College of Engineering,7.9,2021,Placed
+Pooja,Singh,pooja82@example.com,STU082,Modern Technical University,5.65,2021,Eligible
+Nisha,Kumar,nisha83@example.com,STU083,ABC Institute of Technology,5.68,2021,Placed
+Raj,Thakur,raj84@example.com,STU084,Modern Technical University,8.27,2024,Interviewing
+Rohit,Patel,rohit85@example.com,STU085,XYZ Engineering College,6.84,2021,Eligible
+Sonal,Singh,sonal86@example.com,STU086,National Institute of Science,5.93,2018,Placed
+Sneha,Patel,sneha87@example.com,STU087,Modern Technical University,9.8,2022,Placed
+Pooja,Rao,pooja88@example.com,STU088,National Institute of Science,9.73,2020,Not Placed
+Sandeep,Yadav,sandeep89@example.com,STU089,National Institute of Science,9.45,2021,Not Placed
+Meena,Patel,meena90@example.com,STU090,Modern Technical University,6.95,2021,Eligible
+Alok,Reddy,alok91@example.com,STU091,National Institute of Science,9.29,2024,Interviewing
+Sonal,Singh,sonal92@example.com,STU092,Modern Technical University,6.45,2024,Not Placed
+Nisha,Bose,nisha93@example.com,STU093,Global College of Engineering,5.89,2020,Placed
+Pooja,Singh,pooja94@example.com,STU094,Modern Technical University,8.84,2022,Interviewing
+Raj,Bose,raj95@example.com,STU095,Global College of Engineering,6.87,2018,Not Placed
+Priya,Agarwal,priya96@example.com,STU096,Modern Technical University,6.48,2021,Not Placed
+Amit,Sharma,amit97@example.com,STU097,National Institute of Science,9.89,2021,Interviewing
+Rekha,Iyer,rekha98@example.com,STU098,XYZ Engineering College,8.15,2023,Eligible
+Alok,Singh,alok99@example.com,STU099,XYZ Engineering College,6.07,2018,Not Placed
+Pooja,Singh,pooja100@example.com,STU100,Global College of Engineering,7.6,2018,Eligible
